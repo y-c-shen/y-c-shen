@@ -12,6 +12,7 @@ Software Engineering (Co-op) @ McGill
 Data Intern @ Transport Canada | Incoming SWE Intern @ Ericsson  
 <p align="left">
 </p>
+
 🚀 Interested in AI/ML and building RAG + full-stack systems  
 🌱 I enjoy contributing to open-source projects at McGill
 
